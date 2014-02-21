@@ -1,8 +1,8 @@
 #Bootstrap 3.1.1 Offline Docs
 
 ###Removed
-1. Remove adv  (necessary)
-2. Remove google analytic code( necessary )
+1. Remove adv  (unnecessary and it make load slower)
+2. Remove google analytic code(unnecessary and it make load slower)
 
 ###Usage
 1. Clone this down
